@@ -1,4 +1,4 @@
-# NestJS's notification channel twilio
+# NestJS's notification twilio channel
 
 ## Installation
 
@@ -10,4 +10,4 @@ $ npm i @nestjs-notification-channels/twilio
 
 ## Licence
 
-:package_name is [MIT licensed](LICENSE).
+Twilio channel is [MIT licensed](LICENSE).
