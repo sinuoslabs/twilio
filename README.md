@@ -1,7 +1,7 @@
----
-title: Twilio
-description: Official documentation NestJS notification channels fo twilio channel.
----
+![issues](https://img.shields.io/github/issues/nestjs-notification-channels/twilio)
+[![npm version](https://badge.fury.io/js/@nestjs-notification-channels%2Ftwilio.svg)](https://badge.fury.io/js/@nestjs-notification-channels%2Ftwilio)
+![license](https://img.shields.io/github/license/nestjs-notification-channels/twilio)
+[![Open Source Helpers](https://www.codetriage.com/nestjs-notification-channels/twilio/badges/users.svg)](https://www.codetriage.com/nestjs-notification-channels/twilio)
 
 # Twilio notification channel for NestJS
 
