@@ -51,7 +51,7 @@
     "@sinuos/nestjs-notification": "2.0.0",
     "@types/jest": "27.4.0",
     "@types/node": "16.11.21",
-    "@typescript-eslint/eslint-plugin": "5.10.1",
+    "@typescript-eslint/eslint-plugin": "5.10.2",
     "@typescript-eslint/parser": "5.10.1",
     "eslint": "8.8.0",
     "eslint-config-prettier": "8.3.0",
