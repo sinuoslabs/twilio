@@ -38,7 +38,7 @@
     "rxjs": "^6.0.0 || ^7.0.0"
   },
   "dependencies": {
-    "twilio": "3.80.0"
+    "twilio": "3.80.1"
   },
   "devDependencies": {
     "@commitlint/cli": "17.0.3",
