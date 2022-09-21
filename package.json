@@ -1,6 +1,6 @@
 {
   "name": "@nestjs-notification-channels/twilio",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Twilio channel for nestjs notification channels",
   "license": "MIT",
   "keywords": [
